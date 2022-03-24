@@ -131,7 +131,7 @@ Horowitz, Donald L. _Ethnic Groups in Conflict_. University of California Press,
 Culture (and corruption)
 {{< tdclose >}}
 {{< tdopen >}}
-Fisman, Raymond, and Edward Miguel. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Corruption, Norms, and Legal Enforcement: Evidence from Diplomatic Parking Tickets](http://www.jstor.org/discover/10.1086/527495?uid=3739696&uid=2&uid=4&uid=3739256&sid=21105021925723)." _Journal of Political Economy_ 115, no. 6 (2007): 1020–48.
+Fisman, Raymond, and Edward Miguel. "[Corruption, Norms, and Legal Enforcement: Evidence from Diplomatic Parking Tickets](http://www.jstor.org/discover/10.1086/527495?uid=3739696&uid=2&uid=4&uid=3739256&sid=21105021925723)." _Journal of Political Economy_ 115, no. 6 (2007): 1020–48.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -417,7 +417,7 @@ Aristotle. [The Athenian Constitution, Parts 42–69](http://classics.mit.edu/Ar
 
 Ober, Josiah. "[Learning from Athens](http://www.bostonreview.net/josiah-ober-learning-from-athens)." _Boston Review_, March 1, 2006.
 
-Schmitter, Philippe C. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"A Proposal for the Creation of a 'Citizen's Assembly'. (PDF)"](http://www.eui.eu/Documents/DepartmentsCentres/SPS/Profiles/Schmitter/CitizenAssembly.pdf) 2002.
+Schmitter, Philippe C. ["A Proposal for the Creation of a 'Citizen's Assembly'. (PDF)"](http://www.eui.eu/Documents/DepartmentsCentres/SPS/Profiles/Schmitter/CitizenAssembly.pdf) 2002.
 
 
 {{< tdclose >}}
